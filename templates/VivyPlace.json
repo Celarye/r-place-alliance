@@ -21,6 +21,5 @@
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
     }
   ],
-  "blacklist": [
-  ]
+  "blacklist": []
 }
