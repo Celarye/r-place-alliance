@@ -3,13 +3,13 @@
   "contact": "https://discord.com/invite/V6n7NSVRCE",
   "templates": [
     {
-      "name": "Vivy Art Main",
+      "name": "Vivy & Matsumoto",
       "sources": ["https://media.discordapp.net/attachments/1132013033271607403/1133111021523972198/Vivy1.png?width=42&height=86"],
       "x": 1598,
       "y": 991
     },
     {
-      "name": "Vivy Art Secondary",
+      "name": "Vivy - Waist Up",
       "sources": ["https://cdn.discordapp.com/attachments/959661267721785364/1133130183054991500/vivy_pixelalt.png"],
       "x": 500,
       "y": 848
