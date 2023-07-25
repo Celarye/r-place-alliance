@@ -13,12 +13,6 @@
       "sources": ["https://media.discordapp.net/attachments/1132953953114525798/1133062213377204274/Eren.png?width=112&height=90"],
       "x": 911,
       "y": 750
-    },
-    {
-      "name": "TITANPLACE Art 3",
-      "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/egg_boy.png"],
-      "x": 2747,
-      "y": 1411
     }
   ],
   "whitelist": [
