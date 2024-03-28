@@ -1,2 +1,2 @@
-# ARCHIVED: 2023 r-place-alliance
-A Repository with all 2023 alliance templates.
+# ARCHIVED: 2023 R Place Alliance
+All the 2023 R Place alliance templates.
